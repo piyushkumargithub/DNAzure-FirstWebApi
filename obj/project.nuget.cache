@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVFHqllooRGtZP0Wbp1FIFA9wV+HtqPhod9oVfDPggv5CDrPDWhCL0lU3dls44HalOzeFKVbBlepsmVi3E0yrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piyus\\OneDrive\\Desktop\\Web api\\Webapi Simple\\Webapi Simple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piyus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}

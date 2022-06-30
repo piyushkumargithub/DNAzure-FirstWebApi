@@ -1,0 +1,19 @@
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\bin\Debug\netcoreapp3.1\Webapi Simple.exe
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\bin\Debug\netcoreapp3.1\Webapi Simple.deps.json
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\bin\Debug\netcoreapp3.1\Webapi Simple.runtimeconfig.json
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\bin\Debug\netcoreapp3.1\Webapi Simple.runtimeconfig.dev.json
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\bin\Debug\netcoreapp3.1\Webapi Simple.dll
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\bin\Debug\netcoreapp3.1\Webapi Simple.pdb
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.csproj.AssemblyReference.cache
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.AssemblyInfoInputs.cache
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.AssemblyInfo.cs
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.csproj.CoreCompileInputs.cache
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\staticwebassets\Webapi Simple.StaticWebAssets.Manifest.cache
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.RazorTargetAssemblyInfo.cache
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.dll
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.pdb
+C:\Users\piyus\OneDrive\Desktop\Web api\Webapi Simple\obj\Debug\netcoreapp3.1\Webapi Simple.genruntimeconfig.cache
